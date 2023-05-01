@@ -11,3 +11,6 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
+
+## AWS Deployment using ECR, EC2 and GitHub Actions:
+[AWS-Deployment_Using_ECR_ECR2_GitHub-Actions.docx](https://github.com/seemanshu-shukla/RegressionProjectDeployment3/files/11363719/AWS-Deployment_Using_ECR_ECR2_GitHub-Actions.docx)
